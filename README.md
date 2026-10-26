@@ -1,6 +1,6 @@
 # spectraphon-navigator
 
-travelers guide for splitting the light: a one-page reference for the **make noise soundhack spectraphon**.
+travelers guide for mastering alien alchemy: a one-page reference for the **make noise soundhack spectraphon**.
 
 sources: the make noise spectraphon manual (firmware sp67); panel drawing after the module panel.
 
